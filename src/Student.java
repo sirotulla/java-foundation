@@ -1,7 +1,4 @@
-import java.util.Scanner;
-
 public class Student {
-    Scanner scanner = new Scanner(System.in);
     // Attributes (properties) of the class
     String name;
     int rollNumber;
