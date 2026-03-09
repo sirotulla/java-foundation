@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Student {
+public class Student {
     Scanner scanner = new Scanner(System.in);
     // Attributes (properties) of the class
     String name;
