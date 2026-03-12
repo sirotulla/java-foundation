@@ -1,3 +1,5 @@
+package LuckyDiceAdventure;
+
 import java.util.Random;
 
 public class Dice {

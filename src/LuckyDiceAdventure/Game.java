@@ -1,3 +1,5 @@
+package LuckyDiceAdventure;
+
 public class Game {
     private Dice dice1;
     private Dice dice2;

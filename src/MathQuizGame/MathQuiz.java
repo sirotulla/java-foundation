@@ -1,3 +1,5 @@
+package MathQuizGame;
+
 import java.util.Scanner;
 
 public class MathQuiz {
