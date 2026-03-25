@@ -23,7 +23,6 @@ public class UserRegistration {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        ValidationLogger logger = new ValidationLogger();
         UserRegistration registration = new UserRegistration();
 
 
